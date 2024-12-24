@@ -186,7 +186,7 @@ def gameplay(selected_character):
     gravity = 0.5
     player_speed = 4
     jump_strength = -15
-    font = pygame.font.Font("font/SuperMario256.ttf", 25)
+    font = pygame.font.Font("font/SuperMario256.ttf", 15)
    
     phrases = [
         "Ci possediamo solo il tempo che passiamo insieme",
